@@ -1,7 +1,7 @@
-## Hi there 👋
+### Hi there 👋
 
 This is Daniel, current chemistry PhD student at the [Vogt Lab](https://charlottevogtlab.net.technion.ac.il).
-My work revolves around the (electro)conversion of CO$_2$ into other valuable products.
+My work revolves around the (electro)conversion of CO<sub>2</sub> into other valuable products.
 
 <!--
 **sinausia/sinausia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
