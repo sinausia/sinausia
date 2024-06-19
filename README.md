@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is Daniel, current PhD student at the [site name](https://charlottevogtlab.net.technion.ac.il)
+
 <!--
 **sinausia/sinausia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
