@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Daniel, current chemistry PhD student at the [Vogt Lab](https://charlottevogtlab.net.technion.ac.il).
+This is Daniel, current chemistry PhD student at the [Vogt Lab](https://charlottevogtlab.net.technion.ac.il).\\
 My work revolves around the (electro)conversion of CO<sub>2</sub> into other valuable products.
 
 <!--
