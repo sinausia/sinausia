@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi
 
 This is Daniel, current chemistry PhD student at the [Vogt Lab](https://charlottevogtlab.net.technion.ac.il).
 
