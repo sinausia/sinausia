@@ -1,4 +1,4 @@
-## Hi
+## Hi there!
 
 This is Daniel, doctoral researcher at the [Vogt Lab](https://charlottevogtlab.net.technion.ac.il).
 
