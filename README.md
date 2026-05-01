@@ -1,6 +1,6 @@
 ## Hi there!
 
-This is Daniel, postdoctoral researcher at the [Vogt Lab](https://charlottevogtlab.net.technion.ac.il).
+This is Daniel, postdoctoral researcher at [DTU Energy](https://www.energy.dtu.dk), and previously, the [Vogt Lab](https://charlottevogtlab.net.technion.ac.il).
 
 My work revolves around the (electro)catalytic conversion of CO<sub>2</sub> into other valuable products by employing spectroscopic methodologies. To this end, I´m currently working on developing methodologies and adapting statistical techniques to analyze and extract information from (mainly) large time-series datasets. If you are interested in collaborating in any way, feel free to contact me!
 <!--
